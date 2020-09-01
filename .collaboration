@@ -157,16 +157,7 @@
   },
   {
     "ModuleName": "리스트뷰 Home",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "DESKTOP-UEFKI6S\\jakep",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2020-09-01T15:13:29.5341736+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\리스트뷰 Home.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "소개_학습자료다운로드",
