@@ -87,7 +87,7 @@
                     "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
                     "SerializeProperty": "=Export!C14"
                   },
-                  "Id": "bc905a69-2c65-4f72-83fd-cbd187f46abe"
+                  "Id": "1f0e8cec-0b7d-4293-898b-c61f19ecd8e0"
                 },
                 "Condition2": {
                   "$type": "ForguncyDataAccess.TextCESqlCondition, ForguncyDataAccess",
@@ -100,10 +100,10 @@
                     "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
                     "SerializeProperty": "=Export!C14"
                   },
-                  "Id": "24499c5b-db73-4340-879a-c8b6dd41edba"
+                  "Id": "43aae69e-6d19-471e-9784-a9ec35e1dff9"
                 },
                 "RelationType": 1,
-                "Id": "6b920180-7b91-45ff-9656-d1ac2144990e"
+                "Id": "324b5367-a885-44c1-852a-9b2c4e48e2e9"
               },
               "Condition2": {
                 "$type": "ForguncyDataAccess.TextCESqlCondition, ForguncyDataAccess",
@@ -116,10 +116,10 @@
                   "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
                   "SerializeProperty": "=Export!C14"
                 },
-                "Id": "845a39b4-deee-4de2-b84c-02453c2fa247"
+                "Id": "9158ff06-df54-4ada-8917-5f55b9fabeb0"
               },
               "RelationType": 1,
-              "Id": "3d079305-bfa8-445f-9376-75d1bea079a8"
+              "Id": "417a2f75-12cf-410c-808f-fb85260071d7"
             },
             "Params": [
               "=C14"
@@ -257,7 +257,7 @@
                     "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
                     "SerializeProperty": "=Export!C31"
                   },
-                  "Id": "b11aec16-2ca8-443f-9240-454b80795d19"
+                  "Id": "33ddc586-6366-46c4-b977-530965ab0a3e"
                 },
                 "Condition2": {
                   "$type": "ForguncyDataAccess.TextCESqlCondition, ForguncyDataAccess",
@@ -270,10 +270,10 @@
                     "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
                     "SerializeProperty": "=Export!C31"
                   },
-                  "Id": "909bb87d-331a-4df0-a82e-e9dd31ac460b"
+                  "Id": "4c281229-b608-4d15-8882-0d8d021541f5"
                 },
                 "RelationType": 1,
-                "Id": "e97f3046-0014-4f70-8ae4-09617a5b91c4"
+                "Id": "265b6b07-e90d-47c0-894c-8c307c5cdb6d"
               },
               "Condition2": {
                 "$type": "ForguncyDataAccess.TextCESqlCondition, ForguncyDataAccess",
@@ -286,10 +286,10 @@
                   "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
                   "SerializeProperty": "=Export!C31"
                 },
-                "Id": "abf3a0fa-94ed-4872-85d5-795ce906f159"
+                "Id": "8627e32f-3ee0-4e97-8e73-8f1facf12669"
               },
               "RelationType": 1,
-              "Id": "7b4dcfe5-5b67-422e-a237-998002e99d9f"
+              "Id": "e8a4a35c-a580-440d-8daa-2f1f15644d4f"
             },
             "Params": [
               "=C31"
@@ -319,6 +319,8 @@
         "CommandList": [
           {
             "$type": "Forguncy.Model.ExportPageToExcelCommand, Forguncy",
+            "ExportCellValueInfos": [],
+            "ExportListViewCurrentRowInfos": [],
             "NewOtherName": ""
           }
         ],
@@ -425,7 +427,7 @@
                     "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
                     "SerializeProperty": "=Export!C48"
                   },
-                  "Id": "136c83b2-855e-42bf-b3b7-f1f5edd2e7bb"
+                  "Id": "f37ae0b7-4106-4ba7-ad1a-7baeed37f1fa"
                 },
                 "Condition2": {
                   "$type": "ForguncyDataAccess.TextCESqlCondition, ForguncyDataAccess",
@@ -438,10 +440,10 @@
                     "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
                     "SerializeProperty": "=Export!C48"
                   },
-                  "Id": "9932d024-99b0-41db-b7db-78d43e5753b1"
+                  "Id": "67b0b078-85f3-4c65-b7ca-d97138aac33e"
                 },
                 "RelationType": 1,
-                "Id": "2ee4704d-81d9-40bd-9ff0-fc276fd8d205"
+                "Id": "99901c29-2981-494b-9f78-44a0506eaf9a"
               },
               "Condition2": {
                 "$type": "ForguncyDataAccess.TextCESqlCondition, ForguncyDataAccess",
@@ -454,10 +456,10 @@
                   "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
                   "SerializeProperty": "=Export!C48"
                 },
-                "Id": "17cc0e91-31ba-41c2-93ee-2affa3362788"
+                "Id": "5e796b40-cdaa-43f5-ae8f-de02d3365374"
               },
               "RelationType": 1,
-              "Id": "822059e5-6954-402e-9268-07bdb75c3fe0"
+              "Id": "08189d79-3d12-4e83-b5e0-db939e302a88"
             },
             "Params": [
               "=C48"
@@ -487,6 +489,8 @@
         "CommandList": [
           {
             "$type": "Forguncy.Model.ExportPageToPdfCommand, Forguncy",
+            "ExportCellValueInfos": [],
+            "ExportListViewCurrentRowInfos": [],
             "NewOtherName": ""
           }
         ],
@@ -3094,7 +3098,9 @@
     "Title": "[포건시 데모] 리스트뷰 - 내보내기(Export)",
     "AuthorizeInfo": {
       "VisitMode": 3
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

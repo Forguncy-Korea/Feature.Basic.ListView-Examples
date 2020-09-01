@@ -999,7 +999,9 @@
     "Title": "[포건시 데모] 리스트뷰 학습 자료 다운로드",
     "AuthorizeInfo": {
       "VisitMode": 3
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

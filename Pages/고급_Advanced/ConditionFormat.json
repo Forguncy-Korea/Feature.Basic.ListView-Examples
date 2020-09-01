@@ -259,7 +259,7 @@
               "Order": 1
             }
           ],
-          "Id": "fdb2da7c-96f0-4003-837b-aedb29df9bbe"
+          "Id": "75d19d92-860a-4640-b8e5-15a4a8e182e0"
         },
         "ListViewStyleName": "_RS_Medium12"
       }
@@ -334,7 +334,7 @@
               "Order": 1
             }
           ],
-          "Id": "a1f4040a-8404-489d-aa0d-bc6e9bc67840"
+          "Id": "a19820c2-1136-4d0a-8bd8-0a7b9d51d88e"
         },
         "ListViewStyleName": "_RS_Medium6"
       }
@@ -3826,7 +3826,9 @@
     "MasterPageName": "포건시학습자료_마스터_레이아웃",
     "AuthorizeInfo": {
       "VisitMode": 3
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

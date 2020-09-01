@@ -52,14 +52,17 @@
           "ContextMenuItems": [
             {
               "Text": "Insert",
-              "Visible": true
+              "Visible": true,
+              "OperationType": 2
             },
             {
               "Text": "Delete",
-              "Visible": true
+              "Visible": true,
+              "OperationType": 3
             },
             {
-              "Text": "Duplicate"
+              "Text": "Duplicate",
+              "OperationType": 4
             }
           ]
         },
@@ -190,14 +193,17 @@
           "ContextMenuItems": [
             {
               "Text": "Insert",
-              "Visible": true
+              "Visible": true,
+              "OperationType": 2
             },
             {
               "Text": "Delete",
-              "Visible": true
+              "Visible": true,
+              "OperationType": 3
             },
             {
-              "Text": "Duplicate"
+              "Text": "Duplicate",
+              "OperationType": 4
             }
           ]
         },
@@ -2660,7 +2666,9 @@
     "MasterPageName": "포건시학습자료_마스터_레이아웃",
     "AuthorizeInfo": {
       "VisitMode": 3
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

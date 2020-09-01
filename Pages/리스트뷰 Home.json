@@ -728,7 +728,9 @@
     "Title": "[포건시 데모] 리스트뷰 - 홈",
     "AuthorizeInfo": {
       "VisitMode": 3
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

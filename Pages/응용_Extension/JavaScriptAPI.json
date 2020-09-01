@@ -84,7 +84,7 @@
           {
             "$type": "Forguncy.Model.RunJavaScriptCommand, Forguncy",
             "JavaScript": "var listview = Forguncy.Page.getListView(\"ListView1\");\r\nlistview.selectAllRows();",
-            "ID": "bf7d19c223334a4da2e2c2211883f79d"
+            "ID": "2e0a92a924b740ef8194301db93931f8"
           }
         ],
         "Text": "실행하기",
@@ -164,7 +164,7 @@
           {
             "$type": "Forguncy.Model.RunJavaScriptCommand, Forguncy",
             "JavaScript": "var listview = Forguncy.Page.getListView(\"ListView1\");\r\nalert(listview.getRowCount());",
-            "ID": "2a8a098cea974ad0af1dad9d8009c125"
+            "ID": "ccb3b730b41745c482d1445bc47012bd"
           }
         ],
         "Text": "실행하기",
@@ -2005,7 +2005,9 @@
     "MasterPageName": "포건시학습자료_마스터_레이아웃",
     "AuthorizeInfo": {
       "VisitMode": 3
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

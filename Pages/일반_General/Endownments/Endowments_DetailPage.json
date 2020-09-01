@@ -208,7 +208,7 @@
                     ]
                   },
                   "value": "Add",
-                  "Id": "cf113fee-c1c6-4d9b-99ef-c3c93322d4db"
+                  "Id": "2722e8f0-6ecc-432b-ae27-e0c0b9bc2e9d"
                 },
                 "CommandList": [
                   {
@@ -233,7 +233,7 @@
                     ]
                   },
                   "value": "Edit",
-                  "Id": "a3604a96-0f74-464d-a7a9-073550568d23"
+                  "Id": "03e3d092-062f-4abb-91b6-f7a816829591"
                 },
                 "CommandList": [
                   {
@@ -339,7 +339,9 @@
     "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
     "AuthorizeInfo": {
       "VisitMode": 3
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

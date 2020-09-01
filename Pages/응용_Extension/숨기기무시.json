@@ -1572,7 +1572,9 @@
     "MasterPageName": "포건시학습자료_마스터_레이아웃",
     "AuthorizeInfo": {
       "VisitMode": 3
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

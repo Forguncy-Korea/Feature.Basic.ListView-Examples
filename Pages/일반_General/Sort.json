@@ -102,7 +102,7 @@
               "Order": 0
             }
           ],
-          "Id": "c536f3c9-9d3d-478c-ad4b-80470191264a"
+          "Id": "3841a7c1-3099-48ba-b6cb-ae172699df9f"
         },
         "ListViewStyleName": "_RS_Medium2"
       }
@@ -229,7 +229,7 @@
               "Order": 1
             }
           ],
-          "Id": "34b5b30a-59a8-445d-93f5-c6805bbd786c"
+          "Id": "34aa8066-6128-449d-99f1-addb8542a45f"
         },
         "ListViewStyleName": "_RS_Medium9"
       }
@@ -598,7 +598,7 @@
                     ]
                   },
                   "value": "Asc",
-                  "Id": "933db14a-866a-41da-bb0d-e61fe14d6475"
+                  "Id": "42bfabab-3743-4cc6-ab54-2dab42f3a8e7"
                 },
                 "CommandList": [
                   {
@@ -614,7 +614,7 @@
                           "Order": 0
                         }
                       ],
-                      "Id": "221de211-c504-498d-867b-c60b8246b1dc"
+                      "Id": "befb3228-aefc-40d7-ba48-cbace78e9376"
                     },
                     "ID": "5ca0cf9d055d43f0b6c590d7a4ebda87"
                   }
@@ -636,7 +636,7 @@
                           "Order": 1
                         }
                       ],
-                      "Id": "aa1e5e8d-a6af-4320-a47b-d6510ca089d8"
+                      "Id": "6632258f-c6d9-43d0-92c0-93a30424ed37"
                     },
                     "ID": "607033b5882f42c38555202e948ccc9d"
                   }
@@ -4690,7 +4690,9 @@
     "Title": "[포건시 데모] 리스트뷰 - 정렬(Sort)",
     "AuthorizeInfo": {
       "VisitMode": 3
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

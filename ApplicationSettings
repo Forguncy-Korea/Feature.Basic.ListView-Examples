@@ -3,7 +3,7 @@
   <IntegrateWithOtherApplication>
     <Password>Y*o92g$xJPO~</Password>
   </IntegrateWithOtherApplication>
-  <StartPage>리스트뷰 Home</StartPage>
+  <StartPage>Page1</StartPage>
   <UserServicePort>20396</UserServicePort>
   <WebSitePort>48373</WebSitePort>
 </ApplicationSettings>

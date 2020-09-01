@@ -279,14 +279,17 @@
           "ContextMenuItems": [
             {
               "Text": "Insert",
-              "Visible": true
+              "Visible": true,
+              "OperationType": 2
             },
             {
               "Text": "Delete",
-              "Visible": true
+              "Visible": true,
+              "OperationType": 3
             },
             {
-              "Text": "Duplicate"
+              "Text": "Duplicate",
+              "OperationType": 4
             }
           ]
         },
@@ -697,14 +700,17 @@
           "ContextMenuItems": [
             {
               "Text": "Insert",
-              "Visible": true
+              "Visible": true,
+              "OperationType": 2
             },
             {
               "Text": "Delete",
-              "Visible": true
+              "Visible": true,
+              "OperationType": 3
             },
             {
-              "Text": "Duplicate"
+              "Text": "Duplicate",
+              "OperationType": 4
             }
           ]
         },
@@ -11219,7 +11225,9 @@
     "Title": "[포건시 데모] 리스트뷰 - 편집(Edit)",
     "AuthorizeInfo": {
       "VisitMode": 3
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},

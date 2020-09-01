@@ -118,7 +118,7 @@
             "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
             "SerializeProperty": "=Filter!F20"
           },
-          "Id": "792622a8-9766-4128-93a5-2b4f09916b2c"
+          "Id": "4162d0d0-dd48-4ea2-8afc-e97a5efef7b0"
         },
         "TopCondition": null,
         "ListViewStyleName": "_RS_Medium2"
@@ -292,7 +292,7 @@
             "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
             "SerializeProperty": "=Filter!F31"
           },
-          "Id": "97a4e494-cd96-41e0-8976-5f637837c872"
+          "Id": "521b1a1a-89b9-4185-a164-b9a564d87440"
         },
         "TopCondition": null,
         "ListViewStyleName": "_RS_Medium9"
@@ -548,7 +548,7 @@
                     "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
                     "SerializeProperty": "=Filter!C71"
                   },
-                  "Id": "abca9f0f-743f-4aeb-b5de-70919bed6a88"
+                  "Id": "ef88c54e-3848-43d2-a370-94c80b1a31eb"
                 },
                 "Condition2": {
                   "$type": "ForguncyDataAccess.TextCESqlCondition, ForguncyDataAccess",
@@ -561,10 +561,10 @@
                     "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
                     "SerializeProperty": "=Filter!C71"
                   },
-                  "Id": "b006d433-74aa-4735-9736-8c59e22d3c29"
+                  "Id": "2eed9ba2-8151-4f3a-9298-c7046af0fcd6"
                 },
                 "RelationType": 1,
-                "Id": "71033d6b-9a35-4f0d-9528-1296aa848051"
+                "Id": "82205d63-15cb-4293-9596-94b42169a801"
               },
               "Condition2": {
                 "$type": "ForguncyDataAccess.TextCESqlCondition, ForguncyDataAccess",
@@ -577,10 +577,10 @@
                   "$type": "Forguncy.Model.FormulaReferObject, Forguncy",
                   "SerializeProperty": "=Filter!C71"
                 },
-                "Id": "45707fd9-5a0e-4dad-a615-99dbbe8130a2"
+                "Id": "af8c103a-1d21-49c7-83d0-b445a7f21ce3"
               },
               "RelationType": 1,
-              "Id": "d3dd2ac0-2714-425c-a547-894a95417812"
+              "Id": "31a0bc82-893f-446d-9532-b2666e559be4"
             },
             "Params": [
               "=C71"
@@ -3942,7 +3942,9 @@
     "Title": "[포건시 데모] 리스트뷰 - 필터(Filter)",
     "AuthorizeInfo": {
       "VisitMode": 3
-    }
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
   },
   "PrintInfo": {
     "Margin": {},
