@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CustomLibraries>
   <UserCSSFileList>
-    <Item class="Forguncy.Model.UserJSOrCssFile" assembly="Forguncy">
+    <Item class="Forguncy.Model.UserJSOrCssFile" assembly="ServerDesignerCommon">
       <Name>StyleSheet.css</Name>
     </Item>
   </UserCSSFileList>
