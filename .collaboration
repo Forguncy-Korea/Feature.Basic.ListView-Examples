@@ -9,16 +9,7 @@
   },
   {
     "ModuleName": "ConditionFormat",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "JAKEPARK2021040\\Jake Park",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2021-05-04T16:41:35.7303822+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\고급_Advanced\\ConditionFormat.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "DataValidation",
