@@ -7,5 +7,5 @@
 Forguncy에 대한 자세한 사용방법은 사용자 매뉴얼을 참고하여 주시기 바랍니다.
 
 
-관련하여 문의사항이 있으시면 그레이즈시티 아래 기술지원 게시판으로 연락 바랍니다.
+관련하여 문의사항이 있으시면 그레이즈시티 아래 기술지원 게시판으로 연락 바랍니다.<br>
 https://dev.grapecity.co.kr/bbs/board.php?bo_table=forguncy_qna
