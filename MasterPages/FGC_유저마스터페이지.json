@@ -1,0 +1,73 @@
+{
+  "Rows": {
+    "Count": 38
+  },
+  "Cols": {
+    "Count": 55
+  },
+  "Values": {
+    "30,4": "이 페이지는 Forguncy의 내장 페이지입니다. 필요하신 내용에 맞추어 변경 및 수정 가능합니다."
+  },
+  "AttachInfos": {
+    "4,4": {
+      "IsPlaceHolderCell": true
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontSize": 12.0,
+        "Foreground": 0,
+        "HorizontalAlignment": 1
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Text 1 50",
+        "Center",
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "30,4": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 2,
+      "Underline": false,
+      "Strikethrough": false
+    }
+  },
+  "Spans": [
+    "4,4,26,47",
+    "30,4,2,47"
+  ],
+  "Pictures": [
+    {
+      "ForguncyPictureName": "사용하지않음.png",
+      "Stretch": 2,
+      "ForguncyPictureSourceType": 0,
+      "Name": "71b3076e-45ee-4dfa-92ba-e3c94a24de0e.png",
+      "Location": "171,32",
+      "Size": "780,681"
+    }
+  ],
+  "BackgroundPictures": [
+    {
+      "StyleInfo": {
+        "Fill": "Accent 1 0"
+      },
+      "IsAutomaticFill": false,
+      "Name": "9d382752-f3ea-48a3-bb53-d6d47ed4c55a.png",
+      "Location": "80,0",
+      "Size": "940,60"
+    }
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.MasterPage, ServerDesignerCommon",
+    "IsBuiltInPage": true
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//IDc9zWZPkKDo5NfHb1oMPG1j/hzliRcrl4eunVQjd6FFHWzXmiCjWW1yZbCPiLIwmIJBb/kMBg2vNKBSK38Huv4EKb5/uR3m3KVXpEays7x7tt4/9JwZ3FZH6ASQ56uBKKNht0oai3/HLzhdBhhUCu5oqsaiwnExUdsKh0oFDNHRH2/otCVboQSXjHb6SfGfuUEhR2uRlWVbySufNhvJIt/3LTOCeedu3yClbPfE7Rxeun6sMv1zeNU34k8QLgvw1+FQV2WIG0Ewt7xO6V/FS1ff0bVSjhM6YwcW3vMqI23k94ehTYV5tYwyCWjIr8e6SV9lW0aMQ5kxe4ikRMwB33G1LROznbyRPHiu0bKo5Ik3RL9S+QPFCOwqv2IGOv08e5KyAMtJF2An+qhrFRI9CAKC7wx2bp9/mYXnw12j9m4sXrQp/12MYRyOSQKiKgr3TcmZRbVV13WTnGzUjuGb6u359sdQm1/p9P0wXpAwyAWUKD3epKa6FbPi2k9Wv0luUj/nAMuzq6daKkcuidY05Qs7D0b7uWnSwYkgr/PEwX2FIDknMT4c0kvjvdXa0frlcmonjqsDd1mlxhGzjPyS5CJPwIEq1OaMH+UYBm71ZFeRbC338myzk4PFoDwkZbmua13gX1UrjSMzRSfAk4WxLOs1zOMqx253LuwN6177Xexlj6+Nbaad+iUYfMnFoT0mDuYyf3az/3GgoShU6yr1C7iYpoKqxUvyySBsl/1rhkwy4aV5rFRxCNgVL9pwGpUeVDTrze/rVq4LbPjD9NKIs0N/UdNLlSGVCnKhFw/cee+YbmeGKEtunPSyXnuwfyiAvas9329Q9lso6/KNyD8rnnrrUl90pZ3JLHaRF7jEdp0cQOhRcUhSBOx7u7fZkodLNi7NPliL2T2sHfT+01Csxg==|920

@@ -1,1 +1,266 @@
-{"Rows":{"RowColumnAttachedInfos":{"5":{"GridRowColumnDefinition":{"DesignLengthInPixel":30.0}},"7":{"GridRowColumnDefinition":{"DesignLengthInPixel":30.0}},"9":{"GridRowColumnDefinition":{"DesignLengthInPixel":30.0}},"11":{"GridRowColumnDefinition":{"DesignLengthInPixel":30.0}},"13":{"GridRowColumnDefinition":{"DesignLengthInPixel":30.0}},"15":{"GridRowColumnDefinition":{"DesignLengthInPixel":30.0}},"17":{"GridRowColumnDefinition":{"DesignLengthInPixel":30.0}}},"Count":45},"Cols":{"Count":60},"Values":{"3,6":"ID:","5,6":"Rank:","7,6":"Institution:","9,6":"State:","11,6":"_2007_Endowment:","13,6":"_2006_Endowment:","15,6":"__Change:","17,16":"Cancel"},"AttachInfos":{"3,14":{"BindingInfo":{"TableName":"Endowments","ColumnName":"ID"}},"5,14":{"CellType":{"$type":"Forguncy.NumberCellType, ServerDesignerCommon","DecimalPlacesNumber":4,"TemplateKey":"_RS_LightLine_Translucent_SmallRoundCorner_Normal1"},"BindingInfo":{"TableName":"Endowments","ColumnName":"Rank"}},"7,14":{"CellType":{"$type":"Forguncy.TextCellType, ServerDesignerCommon","SavedValidators":[{"$type":"Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"}],"TemplateKey":"_RS_LightLine_Translucent_SmallRoundCorner_Normal1"},"BindingInfo":{"TableName":"Endowments","ColumnName":"Institution"}},"9,14":{"CellType":{"$type":"Forguncy.TextCellType, ServerDesignerCommon","SavedValidators":[{"$type":"Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"}],"TemplateKey":"_RS_LightLine_Translucent_SmallRoundCorner_Normal1"},"BindingInfo":{"TableName":"Endowments","ColumnName":"State"}},"11,14":{"CellType":{"$type":"Forguncy.NumberCellType, ServerDesignerCommon","DecimalPlacesNumber":4,"TemplateKey":"_RS_LightLine_Translucent_SmallRoundCorner_Normal1"},"BindingInfo":{"TableName":"Endowments","ColumnName":"_2007_Endowment"}},"13,14":{"CellType":{"$type":"Forguncy.NumberCellType, ServerDesignerCommon","DecimalPlacesNumber":4,"TemplateKey":"_RS_LightLine_Translucent_SmallRoundCorner_Normal1"},"BindingInfo":{"TableName":"Endowments","ColumnName":"_2006_Endowment"}},"15,14":{"CellType":{"$type":"Forguncy.NumberCellType, ServerDesignerCommon","DecimalPlacesNumber":4,"TemplateKey":"_RS_LightLine_Translucent_SmallRoundCorner_Normal1"},"BindingInfo":{"TableName":"Endowments","ColumnName":"__Change"}},"17,10":{"CellType":{"$type":"Forguncy.ButtonCellType, ServerDesignerCommon","CommandList":[{"$type":"Forguncy.Model.ConditionCommand, ServerDesignerCommon","ConditionAndCommandPairList":[{"Condition":{"$type":"Forguncy.Model.IfCondition, ServerDesignerCommon","param":{"$type":"Forguncy.Model.IfConditionPageElementParam, ServerDesignerCommon","cellLocations":[{"SerializeProperty":"=Endowments_DetailPage!K18"}]},"value":"Add","Id":"b7626f11-46fa-4ec3-9159-b9c39fd28e8c"},"CommandList":[{"$type":"Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon","TableName":"Endowments","UpdateType":"add","ConfirmText":"Are you sure to add the record?","UpdateValues":[]}],"ID":"7ff0bc2e-f361-4934-8429-482c90f20dd1"},{"Condition":{"$type":"Forguncy.Model.IfCondition, ServerDesignerCommon","param":{"$type":"Forguncy.Model.IfConditionPageElementParam, ServerDesignerCommon","cellLocations":[{"SerializeProperty":"=Endowments_DetailPage!K18"}]},"value":"Edit","Id":"9321fb0d-45f2-476c-919b-71a3717a77e7"},"CommandList":[{"$type":"Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon","TableName":"Endowments","ConfirmText":"Are you sure to change the record?","UpdateValues":[]}],"ID":"36d9a278-4711-4135-9813-94ca8d40fd88"}]},{"$type":"Forguncy.Model.NavigateCommand, ServerDesignerCommon","NavigateType":"back","PassValues":[]}],"TemplateKey":"_RS_Normal_Style2"}},"17,16":{"CellType":{"$type":"Forguncy.ButtonCellType, ServerDesignerCommon","CommandList":[{"$type":"Forguncy.Model.NavigateCommand, ServerDesignerCommon","NavigateType":"back","PassValues":[]}],"Text":"Cancel","TemplateKey":"_RS_Normal_Style2"}}},"StyleDatas":{"Styles":[{"FontWeight":0}],"Types":{"Strs":["Bold","Body"]},"CellStyles":{"3,6":0,"5,6":0,"7,6":0,"9,6":0,"11,6":0,"13,6":0,"15,6":0},"SheetStyle":{"FontFamily":1}},"Spans":["3,14,1,6","5,14,1,6","7,14,1,6","9,14,1,6","11,14,1,6","13,14,1,6","15,14,1,6","17,10,1,4","17,16,1,4"],"PageInfo":{"$type":"Forguncy.Model.Pages.NormalPage, ServerDesignerCommon","AuthorizeInfo":{"VisitMode":3},"RowBreakLines":[],"RepeatRangeSettings":[]},"PrintInfo":{"Margin":{},"PaperSize":{}}}//75xxcgLMOVGD+hPHrRqseTz8W98lBgikuL6n/FLJOzBlcaaAYF7BQ9ZKK0h5IbOPxWhRx4/4qG7X9iUICnx+Bvi8Ng5ZQ9HZIfz6a3EyU5g5+hfdpT5mm9IxfKiVB8uL1ePVgWQpgPjJTmMjxbRymnSS26DSKknxikdL+nU6fNZpdG2l9EypUy7aKSeQU30wm4HVs/1PPn6JHX3XF1J4aQi2w8ZK9nmVp2uKzqPSFVZG02G337F3X2Zxf3UKoiejh9Whe4Izxy85i31j3r0m3OmIoaJxj1E0sXe2ovouobTp5vZePhxNtXMo4lPVsjXyPRnSzS7hzR3KNrNig9nqlsb5UZRVkVjAVSkj7xCeDbhBEqrarqGGByn9FKoZv+17nhvdg7s+I2its9kS0mm6saccgaaYfVtxH+gLjVYQCLrqdwF21RtfosvXVKFtbRuPlqYIeKSU9gtltQri1XNsaYzK2vKsQqXzvMsSSr5SWaHkaqOX6nI77amH+ezKvCkrWe/1ilzerBtBGDchojqlOFlR82pEaJnrI5Ge42V8Mtbnh6Neo/Ikdv0eL3Y73eJeeHg+PeC4qGaDP16+HnrQvd70523DuRPY9uVpmVf7MTjxOMBrc/zViX59HELFivv4HcKZmK2ySlH7R/UG/Or31rvXTWRKVwTeTmTOoprbCUvpaHNfBNyGjYd0hkFYxIuGaCPbNvtYUfBkmSCITuamlmuKik2bczdEVHgjn721xKodrDDBRgyNwBBasN2xGD1O7TERxBqE7B8FpofXpj8fJWdkxQV2fqf+MmoyDnG6FkAXclxqy3a7fY2/oYbe4dOytcmec3uPxe3xc3eGB/xWjRx+RNZUXEKBbUQ5Oul9uU9U3+a4wnb30RbSlH2npXnyE+0kVIBLHef7uaw0sLWCNw==|920
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "11": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "13": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "15": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "17": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      }
+    },
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "3,6": "ID:",
+    "5,6": "Rank:",
+    "7,6": "Institution:",
+    "9,6": "State:",
+    "11,6": "_2007_Endowment:",
+    "13,6": "_2006_Endowment:",
+    "15,6": "__Change:",
+    "17,16": "Cancel"
+  },
+  "AttachInfos": {
+    "3,14": {
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "ID"
+      }
+    },
+    "5,14": {
+      "CellType": {
+        "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
+        "DecimalPlacesNumber": 4,
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+      },
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "Rank"
+      }
+    },
+    "7,14": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+      },
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "Institution"
+      }
+    },
+    "9,14": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+      },
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "State"
+      }
+    },
+    "11,14": {
+      "CellType": {
+        "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
+        "DecimalPlacesNumber": 4,
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+      },
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "_2007_Endowment"
+      }
+    },
+    "13,14": {
+      "CellType": {
+        "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
+        "DecimalPlacesNumber": 4,
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+      },
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "_2006_Endowment"
+      }
+    },
+    "15,14": {
+      "CellType": {
+        "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
+        "DecimalPlacesNumber": 4,
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+      },
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "__Change"
+      }
+    },
+    "17,10": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ConditionCommand, ServerDesignerCommon",
+            "ConditionAndCommandPairList": [
+              {
+                "Condition": {
+                  "$type": "Forguncy.Model.IfCondition, ServerDesignerCommon",
+                  "param": {
+                    "$type": "Forguncy.Model.IfConditionPageElementParam, ServerDesignerCommon",
+                    "cellLocations": [
+                      {
+                        "SerializeProperty": "=Endowments_DetailPage!K18"
+                      }
+                    ]
+                  },
+                  "value": "Add",
+                  "Id": "13dddb1f-964a-4b4d-a1ef-0b57df90ed0c"
+                },
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+                    "TableName": "Endowments",
+                    "UpdateType": "add",
+                    "ConfirmText": "Are you sure to add the record?",
+                    "UpdateValues": []
+                  }
+                ],
+                "ID": "bb7aa727-edeb-4776-b3f5-c2ba148d7d75"
+              },
+              {
+                "Condition": {
+                  "$type": "Forguncy.Model.IfCondition, ServerDesignerCommon",
+                  "param": {
+                    "$type": "Forguncy.Model.IfConditionPageElementParam, ServerDesignerCommon",
+                    "cellLocations": [
+                      {
+                        "SerializeProperty": "=Endowments_DetailPage!K18"
+                      }
+                    ]
+                  },
+                  "value": "Edit",
+                  "Id": "39e64044-2dda-4093-97bd-f2338edc9592"
+                },
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+                    "TableName": "Endowments",
+                    "ConfirmText": "Are you sure to change the record?",
+                    "UpdateValues": []
+                  }
+                ],
+                "ID": "8bcd0ce5-13e4-4a14-9909-2741cda3009a"
+              }
+            ]
+          },
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "NavigateType": "back",
+            "PassValues": []
+          }
+        ],
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    },
+    "17,16": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "NavigateType": "back",
+            "PassValues": []
+          }
+        ],
+        "Text": "Cancel",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontWeight": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Bold",
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "3,6": 0,
+      "5,6": 0,
+      "7,6": 0,
+      "9,6": 0,
+      "11,6": 0,
+      "13,6": 0,
+      "15,6": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 1
+    }
+  },
+  "Spans": [
+    "3,14,1,6",
+    "5,14,1,6",
+    "7,14,1,6",
+    "9,14,1,6",
+    "11,14,1,6",
+    "13,14,1,6",
+    "15,14,1,6",
+    "17,10,1,4",
+    "17,16,1,4"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "AuthorizeInfo": {
+      "VisitMode": 3
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//ZIyp8JvSOS4kjEvAeBr8LO31gjBX4Q2toVIZTy+PXnDhE9/CVSd0i1iDUfNUPUD8tm0ShSanJkFL0aBU3CsOylFPQnXAO0yh8Y3jSWonUljN7XqRufCtGVmcqpt8FjeI+1kj21RIOlHdTYODat9UNOuJPaqDs8zqw3ThTvj1AfTQ4lswsQLNJn+rupp2+XUTH63CdHWDpypIpPhDlDUdT/VQ6rfHayXTKf8gcTZB8wehmoOT4BcdXOjjKkmAWCJOOyOfcbAPGnca0IYbULBN5ryH3p+6dDm45gIWo6ppfB6VTgEM+xuypeDovcJHQzCif1WbD0wFtrWi6345vE8lQkN35HnkcryGrBQ7Dkj9F8Hid10kK3zBi4Anl+7fCj/eIuko7evUXsft1DWutY9l2H1gYEy0N0CPES97ZQNvjpYvs8wN9Fy8hd0Bp0Q8K+HzJDh8JN1z5P3NDmFH1nGDvtHgG0TROZ3aZ1qu1b+IFiWs/uCM46t6IIhFxJ41ZbPe9IIX87d5Hnwz71rpp0QsbibcN8AQSxU6M0RYe42j7b5cmk4j6oXkBkIuNAh7cn9tX9wcLqIAZK5g9bt+0D083+uBk8p+NdA2olkCXWktPtw0Ff9lKYlX5Em3FFRcQUxpa2w6E4qFk4MFb/3tP937C2dts65WWsSvvsSTv9w8kIpTzTAhW9ZU4/K9H58Nb5HZEFwyKmcQpjBQFwQKPgXgQkBm+L9fc8NEW3lj0dpleebKlfsJ4K7M+q0pYzfgMoDetBdgK/c1rOLcLfcoJdEZpXHy0c8xae+z1fihUUphY6OnVqmDv9wMJdQoLU6btY2qv03nr7nX3BeecAKMOY6IY/CjgZSr+CCgbc0svTFk+MComquLULX8LfiTUx0BUWv6byqviSBsztEeEvKcYn6uxg==|920

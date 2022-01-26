@@ -1,1 +1,387 @@
-{"Rows":{"RowColumnAttachedInfos":{"3":{"GridRowColumnDefinition":{"DesignLengthInPixel":55.0}},"5":{"GridRowColumnDefinition":{"DesignLengthInPixel":30.0}},"7":{"GridRowColumnDefinition":{"DesignLengthInPixel":30.0}},"8":{"GridRowColumnDefinition":{"DesignLengthInPixel":30.0}},"9":{"GridRowColumnDefinition":{"DesignLengthInPixel":30.0}}},"Count":45},"Cols":{"Count":60},"Values":{"3,20":"Endowments List","7,6":"Add record","9,26":"Edit","9,29":"Delete"},"AttachInfos":{"5,27":{"CellType":{"$type":"Forguncy.CurrentUserCellType, ServerDesignerCommon","CellCustomValue":"%CurrentUser%","NavigateToHomePageWhenLogout":true}},"7,6":{"CellType":{"$type":"Forguncy.HyperlinkCellType, ServerDesignerCommon","CommandList":[{"$type":"Forguncy.Model.NavigateCommand, ServerDesignerCommon","PageName":"Endowments_DetailPage","PassValues":[{"Source":"Add","TargetCell":{"SerializeProperty":"=Endowments_DetailPage!K18"}}],"LoadBindingDataOption":2}],"Text":"Add record","ClickMode":1}},"8,6":{"ListViewInfo":{"ShowColumnHeaderInDesigner":true,"TableName":"Endowments","RowIndex":8,"ColumnIndex":6,"ColumnCount":28,"RowCount":12,"IsRowHeaderVisible":true,"ColumnOperation":2,"ShowGridLine":true,"Name":"ListView1","TopCondition":null,"ListViewStyleName":"_RS_Medium2"}},"9,8":{"BindingInfo":{"TableName":"Endowments","ColumnName":"Rank"}},"9,11":{"BindingInfo":{"TableName":"Endowments","ColumnName":"Institution"}},"9,14":{"BindingInfo":{"TableName":"Endowments","ColumnName":"State"}},"9,17":{"BindingInfo":{"TableName":"Endowments","ColumnName":"_2007_Endowment"}},"9,20":{"BindingInfo":{"TableName":"Endowments","ColumnName":"_2006_Endowment"}},"9,23":{"BindingInfo":{"TableName":"Endowments","ColumnName":"__Change"}},"9,26":{"CellType":{"$type":"Forguncy.HyperlinkCellType, ServerDesignerCommon","CommandList":[{"$type":"Forguncy.Model.NavigateCommand, ServerDesignerCommon","PageName":"Endowments_DetailPage","PassValues":[{"Source":"Edit","TargetCell":{"SerializeProperty":"=Endowments_DetailPage!K18"}}],"LoadBindingDataOption":1}],"Text":"Edit","ClickMode":1}},"9,29":{"CellType":{"$type":"Forguncy.HyperlinkCellType, ServerDesignerCommon","CommandList":[{"$type":"Forguncy.Model.DeleteRecordCommand, ServerDesignerCommon","ConfirmText":"Are you sure to delete?","UpdateValues":[]}],"Text":"Delete","ClickMode":1}}},"StyleDatas":{"Styles":[{"FontSize":30.0,"HorizontalAlignment":0,"VerticalAlignment":0},{"FontSize":15.0,"HorizontalAlignment":1,"VerticalAlignment":0},{"Foreground":2,"Underline":true},{"BorderTop":0,"BorderLeft":0},{"BorderTop":0},{"BorderTop":0,"BorderRight":0},{"BorderBottom":1,"BorderLeft":0,"BorderRight":1},{"BorderBottom":1,"BorderLeft":1,"BorderRight":1},{"Foreground":2,"Underline":true,"BorderBottom":1,"BorderLeft":1,"BorderRight":1},{"BorderRight":0},{"BorderLeft":0},{"BorderBottom":0,"BorderLeft":0},{"BorderBottom":0},{"BorderBottom":0,"BorderRight":0}],"Types":{"Strs":["Center","Right","Blue","DarkGray","#D8D8D8","Body"],"Borders":[{"Color":3},{"Color":4}]},"CellStyles":{"3,20":0,"5,27":1,"7,6":2,"8,6":3,"8,7":4,"8,8":4,"8,9":4,"8,10":4,"8,11":4,"8,12":4,"8,13":4,"8,14":4,"8,15":4,"8,16":4,"8,17":4,"8,18":4,"8,19":4,"8,20":4,"8,21":4,"8,22":4,"8,23":4,"8,24":4,"8,25":4,"8,26":4,"8,27":4,"8,28":4,"8,29":4,"8,30":4,"8,31":4,"8,32":4,"8,33":5,"9,6":6,"9,7":7,"9,8":7,"9,9":7,"9,10":7,"9,11":7,"9,12":7,"9,13":7,"9,14":7,"9,15":7,"9,16":7,"9,17":7,"9,18":7,"9,19":7,"9,20":7,"9,21":7,"9,22":7,"9,23":7,"9,24":7,"9,25":7,"9,26":8,"9,27":7,"9,28":7,"9,29":8,"9,30":7,"9,31":7,"9,33":9,"10,6":10,"10,33":9,"11,6":10,"11,33":9,"12,6":10,"12,33":9,"13,6":10,"13,33":9,"14,6":10,"14,33":9,"15,6":10,"15,33":9,"16,6":10,"16,33":9,"17,6":10,"17,33":9,"18,6":10,"18,33":9,"19,6":11,"19,7":12,"19,8":12,"19,9":12,"19,10":12,"19,11":12,"19,12":12,"19,13":12,"19,14":12,"19,15":12,"19,16":12,"19,17":12,"19,18":12,"19,19":12,"19,20":12,"19,21":12,"19,22":12,"19,23":12,"19,24":12,"19,25":12,"19,26":12,"19,27":12,"19,28":12,"19,29":12,"19,30":12,"19,31":12,"19,32":12,"19,33":13},"SheetStyle":{"FontFamily":5}},"Spans":["5,27,1,7","10,6,10,28","9,6,1,2","9,8,1,3","9,11,1,3","9,14,1,3","9,17,1,3","9,20,1,3","9,23,1,3","9,26,1,3","9,29,1,3","8,6,1,2","8,8,1,3","8,11,1,3","8,14,1,3","8,17,1,3","8,20,1,3","8,23,1,3","8,26,1,3","8,29,1,3"],"PageInfo":{"$type":"Forguncy.Model.Pages.NormalPage, ServerDesignerCommon","AuthorizeInfo":{"VisitMode":3},"RowBreakLines":[],"RepeatRangeSettings":[]},"PrintInfo":{"Margin":{},"PaperSize":{}}}//4vfP84DScn3ZQdRXRWlk9CmXPLJvcm/4LcQIBLbVIe6UWJUbBMp56toiSWyqIvEC6yixXnDTdiJx8eu0on01BubTTRe2BK0O29Wly6mq3OK1V4dzGPNoa68ELOmcS4LachDtvn/MaDIeaB6nZvUC7gZvLZ8qBR0wXfYlN7pexFo8fBIrAXAaK8N46lZCMJ8CF1CnTAaNlrLhHiEhv6Yloc+brFPfb0awFgRDkrWNZ3lkUnwNfWREdHf1WxO+8we37nTRjFxVmmvXYOMDt8h6AVj/bBL0q4WO6UD0SZ4uMPK2HiaSCbuFdKj2GrgXApY9B7NqPrwbUMZzQ58EliuHj2pZdHW0L3cLojRXnp8i3Ed7fBXcibSgfYMDjHtK/OnxfglgzOVuIFqKVhi6joI8Rrz4LhTziXxAMNJqBziO3xqqZgZcZZpFdke0HNWZ0+vKwZjBmKi8zoyisxDcV/JdeA5IzYeKA3JuWJwv+boT/poLftofEeYyOQlbLWgasbz4vpcousSvJQwIklWx9LdBmrPJTGVsiYbFHZbZRkGXZ++1hHjVgZxYjj+N2pJWA/08m3u192Zioo5Xylu9P/ia6Wo8Hp40H4qdRAJrvb6B0n8eHyW7adQuFEYOCfxdy9Iphzg6negZH3GzjEiG2dO4MenU0IU8nnkmIKjMfjgSVFXhiD6lSpygHWT7ZeGAjndmr/DzsVbFdeRnEZvg3c93s5r2idMKTI44ZEbD9G1tH70xtn/2bc55GM1qxCfLZjtRnWc7j59I2KgvgnFyXEh1Z83CJuC/mDlqFy6YmYq0gN/0vECTBBvxIBnIJYDWiR0j3mYL5V3yNX7z4Y/ZhMbMJqKiLJ5ZilXFV42eQtWDz00zjyhPuben0sjAX9AA4siehimN7mMMY/FhEorppwPXSg==|920
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 55.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "8": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      }
+    },
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "3,20": "Endowments List",
+    "7,6": "Add record",
+    "9,26": "Edit",
+    "9,29": "Delete"
+  },
+  "AttachInfos": {
+    "5,27": {
+      "CellType": {
+        "$type": "Forguncy.CurrentUserCellType, ServerDesignerCommon",
+        "CellCustomValue": "%CurrentUser%",
+        "NavigateSettingWhenLogout": {
+          "NavigateWhenLogoutMode": 1
+        }
+      }
+    },
+    "7,6": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "Endowments_DetailPage",
+            "PassValues": [
+              {
+                "Source": "Add",
+                "TargetCell": {
+                  "SerializeProperty": "=Endowments_DetailPage!K18"
+                }
+              }
+            ],
+            "LoadBindingDataOption": 2
+          }
+        ],
+        "Text": "Add record",
+        "ClickMode": 1
+      }
+    },
+    "8,6": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "Endowments",
+        "RowIndex": 8,
+        "ColumnIndex": 6,
+        "ColumnCount": 28,
+        "RowCount": 12,
+        "IsRowHeaderVisible": true,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "Name": "ListView1",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "9,8": {
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "Rank"
+      }
+    },
+    "9,11": {
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "Institution"
+      }
+    },
+    "9,14": {
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "State"
+      }
+    },
+    "9,17": {
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "_2007_Endowment"
+      }
+    },
+    "9,20": {
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "_2006_Endowment"
+      }
+    },
+    "9,23": {
+      "BindingInfo": {
+        "TableName": "Endowments",
+        "ColumnName": "__Change"
+      }
+    },
+    "9,26": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "Endowments_DetailPage",
+            "PassValues": [
+              {
+                "Source": "Edit",
+                "TargetCell": {
+                  "SerializeProperty": "=Endowments_DetailPage!K18"
+                }
+              }
+            ],
+            "LoadBindingDataOption": 1
+          }
+        ],
+        "Text": "Edit",
+        "ClickMode": 1
+      }
+    },
+    "9,29": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.DeleteRecordCommand, ServerDesignerCommon",
+            "CheckDataValidation": false,
+            "ConfirmText": "Are you sure to delete?",
+            "UpdateValues": []
+          }
+        ],
+        "Text": "Delete",
+        "ClickMode": 1
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontSize": 30.0,
+        "HorizontalAlignment": 0,
+        "VerticalAlignment": 0
+      },
+      {
+        "FontSize": 15.0,
+        "HorizontalAlignment": 1,
+        "VerticalAlignment": 0
+      },
+      {
+        "Foreground": 2,
+        "Underline": true
+      },
+      {
+        "BorderTop": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderTop": 0
+      },
+      {
+        "BorderTop": 0,
+        "BorderRight": 0
+      },
+      {
+        "BorderBottom": 1,
+        "BorderLeft": 0,
+        "BorderRight": 1
+      },
+      {
+        "BorderBottom": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "Foreground": 2,
+        "Underline": true,
+        "BorderBottom": 1,
+        "BorderLeft": 1,
+        "BorderRight": 1
+      },
+      {
+        "BorderRight": 0
+      },
+      {
+        "BorderLeft": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderBottom": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderRight": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Center",
+        "Right",
+        "Blue",
+        "DarkGray",
+        "#D8D8D8",
+        "Body"
+      ],
+      "Borders": [
+        {
+          "Color": 3
+        },
+        {
+          "Color": 4
+        }
+      ]
+    },
+    "CellStyles": {
+      "3,20": 0,
+      "5,27": 1,
+      "7,6": 2,
+      "8,6": 3,
+      "8,7": 4,
+      "8,8": 4,
+      "8,9": 4,
+      "8,10": 4,
+      "8,11": 4,
+      "8,12": 4,
+      "8,13": 4,
+      "8,14": 4,
+      "8,15": 4,
+      "8,16": 4,
+      "8,17": 4,
+      "8,18": 4,
+      "8,19": 4,
+      "8,20": 4,
+      "8,21": 4,
+      "8,22": 4,
+      "8,23": 4,
+      "8,24": 4,
+      "8,25": 4,
+      "8,26": 4,
+      "8,27": 4,
+      "8,28": 4,
+      "8,29": 4,
+      "8,30": 4,
+      "8,31": 4,
+      "8,32": 4,
+      "8,33": 5,
+      "9,6": 6,
+      "9,7": 7,
+      "9,8": 7,
+      "9,9": 7,
+      "9,10": 7,
+      "9,11": 7,
+      "9,12": 7,
+      "9,13": 7,
+      "9,14": 7,
+      "9,15": 7,
+      "9,16": 7,
+      "9,17": 7,
+      "9,18": 7,
+      "9,19": 7,
+      "9,20": 7,
+      "9,21": 7,
+      "9,22": 7,
+      "9,23": 7,
+      "9,24": 7,
+      "9,25": 7,
+      "9,26": 8,
+      "9,27": 7,
+      "9,28": 7,
+      "9,29": 8,
+      "9,30": 7,
+      "9,31": 7,
+      "9,33": 9,
+      "10,6": 10,
+      "10,33": 9,
+      "11,6": 10,
+      "11,33": 9,
+      "12,6": 10,
+      "12,33": 9,
+      "13,6": 10,
+      "13,33": 9,
+      "14,6": 10,
+      "14,33": 9,
+      "15,6": 10,
+      "15,33": 9,
+      "16,6": 10,
+      "16,33": 9,
+      "17,6": 10,
+      "17,33": 9,
+      "18,6": 10,
+      "18,33": 9,
+      "19,6": 11,
+      "19,7": 12,
+      "19,8": 12,
+      "19,9": 12,
+      "19,10": 12,
+      "19,11": 12,
+      "19,12": 12,
+      "19,13": 12,
+      "19,14": 12,
+      "19,15": 12,
+      "19,16": 12,
+      "19,17": 12,
+      "19,18": 12,
+      "19,19": 12,
+      "19,20": 12,
+      "19,21": 12,
+      "19,22": 12,
+      "19,23": 12,
+      "19,24": 12,
+      "19,25": 12,
+      "19,26": 12,
+      "19,27": 12,
+      "19,28": 12,
+      "19,29": 12,
+      "19,30": 12,
+      "19,31": 12,
+      "19,32": 12,
+      "19,33": 13
+    },
+    "SheetStyle": {
+      "FontFamily": 5
+    }
+  },
+  "Spans": [
+    "5,27,1,7",
+    "10,6,10,28",
+    "9,6,1,2",
+    "9,8,1,3",
+    "9,11,1,3",
+    "9,14,1,3",
+    "9,17,1,3",
+    "9,20,1,3",
+    "9,23,1,3",
+    "9,26,1,3",
+    "9,29,1,3",
+    "8,6,1,2",
+    "8,8,1,3",
+    "8,11,1,3",
+    "8,14,1,3",
+    "8,17,1,3",
+    "8,20,1,3",
+    "8,23,1,3",
+    "8,26,1,3",
+    "8,29,1,3"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "AuthorizeInfo": {
+      "VisitMode": 3
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//qIZ3ia5QPpscddnP6vEmzHIUeQiu54K7WClu5CnRnOb5JRUkgZHyPMv0aOG+2IXPbGfO0NiJOubxwWJLyoPoGogVLSy4nRgC0ClDilFNS5Jh4JAIQyoAxioG6jzIdIK8C4ibCTICNd+jKYbcbysy3cLDlXRAYlCXDgTIUqOeNwNKeVelb0XdB5lRDA8Ql9lJ5NxoRzEaSVKl8OuP/KNxsKGvcB6/GQu3sRxIna3YRPxl8MF8dvA8tDjiKSjaECNPULjPiiYhRjeFco6hOwkFoxqCvO1L7E7GSEel+avTzmjWbeqi2nlLc1wlfTB/Ym+w+4ZKNJQC0vQ6PSrmdmGOR07TCB1wT5EkEjDPqks8MIlQkXjTUIoQ0bv33t24apHrTbn/afD1zdJ31P14ZqO8PbkAcpNbPBfD6sonVTeghJufPJRqKOdzjC5ywUfaKph3Cgl1mTaK3obdgCxuV8v960bMAQihyCixqaOjV/u9U1YTMnxJKp5KHRzJ+aJzaJv2UNmTO2pyGrzW1tF/qEspYTVikw+/I6ue75S2YeLGK5A2BsK/42kvOoqkac9MwB4vrNxhIGXeemVHhd2Bo0y6EctGhU1gdL1Iko7phOfTbpa2Qzd+lgDjJwgq8u5gqwc9tN+I8KmfQmjCKRXRK5asAimJyECo+rQbpMlerkItf0r76m3xnRAxNUWgXdusb+MwwIh7Ho2BRBaIKA6wPYH7CQLJ3ZcP77atwjGQBY1PJZHHBmE3yCKaZSXNO6eiZmaN3cyF9htqHsv67qn8LV0sqFmxtL+V6itGHEORcH0MGnfPYkGv7N2R79ncyEC/mSP5dYCznEs9IV5YRnxSQDEalOc8/PQywz4EsGsMWWxdxKwCgn89hYr18TvnpIaX6zxd9l1B7HXEi5cJ4GtchlS+ww==|920
